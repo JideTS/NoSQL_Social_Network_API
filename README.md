@@ -30,4 +30,4 @@ N/A
 
 ## Demo video of the application
 
-[View it now]()
+[View it now](https://drive.google.com/file/d/1aKQ7zJ4HuV7j5iCidrLGMc23s6McOlCV/view?usp=sharing)
