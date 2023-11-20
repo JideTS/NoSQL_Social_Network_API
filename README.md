@@ -26,6 +26,8 @@ N/A
 
 ## Preview of the application
 
+<img width="2558" alt="A preview of the Insomnia application interface to test the back-end operations of a social network" src="https://github.com/JideTS/NoSQL_Social_Network_API/assets/20988563/efb0e13b-b99e-44ce-9690-42bec9bf1ffc">
+
 ## Demo video of the application
 
 [View it now]()
